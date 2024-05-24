@@ -6,4 +6,4 @@ In diabetes management, identifying glycemic patterns leading to hypoglycemia, i
 For details, see:
 [1] A. Taştan, C. Escorihuela-Altaba, J. Garcia-Tirado, and K. Riesen, “Clustering Time Series Data for Personalized Type 1 Diabetes Management,” in Int. Conf. Pattern Recognit. Artif. Intell. (submitted), 2024.
 
-The complete code implemented in Phyton and MATLAB will be available after notification of acceptance.
+The complete code implemented in Phyton and MATLAB will be available after notification of acceptance. The results on the paper are shown for MATLAB implementation.
