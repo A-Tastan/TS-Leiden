@@ -303,7 +303,7 @@ def aggregate_graph(A,y,x,p_refined,r_refined,max_neigh_num):
 
 #Perform TS Leiden for risky time determination
 #Define directory and obtain data
-dir = '/home/atastan/Desktop/RESEARCH_PRG/UDEM_Collaboration/DataCollection_DCLP6/02f March_1_2022_Data_Collection/85201_20220118_20220216'
+dir = '/home/...'
 [df_cgm,df_basal,df_bolus,df_meals] = call_data(dir)
 #print(df_cgm.columns)
 
